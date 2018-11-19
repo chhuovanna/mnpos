@@ -1,0 +1,7 @@
+crud all
+- crud product
+- crud category
+- crud manufacturer.
+sale
+report
+search
